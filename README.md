@@ -1,0 +1,2 @@
+# typescriptplayground
+Learning typescript
